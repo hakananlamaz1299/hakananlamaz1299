@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**hakananlamaz1299/hakananlamaz1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Hakan ANLAMAZ</h1>
 <h3 align="center">I am working as a Full Stack developer. I have 8 years of experience.</h3>
 
